@@ -64,6 +64,7 @@ AI: Gemini API
 📂 Project Structure
 
 interview-prep-ai/
+
  ├── client/ 
  
  ├── server/ 
